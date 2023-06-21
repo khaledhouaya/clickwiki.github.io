@@ -13,7 +13,7 @@ products:
   - mmf2dev
   - cf2.5
   - cf2.5dev
-shop_link: "http://clickstore.clickteam.com/xna-exporter"
+download_link: "\Saved Games\games\Downloads\XNASDK.zip"
 support_link: "https://community.clickteam.com/forums/347-XNA-Export-Module-2-5"
 links:
   - "[About the XNA Export Module](https://web.archive.org/web/20140620040339/http://www.clickteam.com/xna-export-module) (Archived)"
